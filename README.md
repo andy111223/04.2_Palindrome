@@ -10,7 +10,7 @@ A Python function to check if a word is a palindrome. Palindromes are words that
 
 2. Navigate to the project directory:
 
-    `cd 04.2_Palindrome.git`
+    `cd 04.2_Palindrome`
 
 3. Run the script:
 
